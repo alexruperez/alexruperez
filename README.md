@@ -3,7 +3,7 @@
 > I'm Alex Rupérez,
 > I have been [developing iOS applications](https://linkedin.com/in/alexruperez) and contributing to the open source community for over 10 years.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexruperez&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexruperez&count_private=true&show_icons=true&theme=dark)
 
 ### 📝 What do I program?
 
@@ -20,7 +20,6 @@
   <a href="https://www.instagram.com/alexruperez"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://tiktok.com/@alexruperez"><img src="https://img.icons8.com/color/96/000000/tiktok.png" alt="tiktok"/></a>
   <a href="https://www.twitch.tv/alexruperez"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-  <a href="https://discor.gg/GaJ5c2V"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </p>
 
 <p  align="center">
