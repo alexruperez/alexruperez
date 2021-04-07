@@ -1,15 +1,15 @@
-### 👨🏼‍💻 Who I am?
+## 👨🏼‍💻 Who I am?
 
 > I'm Alex Rupérez,
 > I have been [developing iOS applications](https://linkedin.com/in/alexruperez) and contributing to the open source community for over 10 years.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexruperez&count_private=true&show_icons=true&theme=dark)
 
-### 📝 What do I program?
+## 📝 What do I program?
 
 [![Swift](https://img.shields.io/badge/language-Swift-orange)](https://swift.org) [![Objective-C](https://img.shields.io/badge/language-Objective--C-blue)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) [![Ruby](https://img.shields.io/badge/language-Ruby-red)](https://www.ruby-lang.org)
 
-## Links
+## 🔗 Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexruperez"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
