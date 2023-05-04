@@ -19,7 +19,3 @@
   <a href="https://wa.me/message/X373SHMZOGK7E1"><img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="whatsapp"/></a>
   <a href="https://www.instagram.com/alexruperez"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alexruperez.alexruperez" alt="visitor badge"/>
-</p>
